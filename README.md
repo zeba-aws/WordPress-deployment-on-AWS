@@ -5,3 +5,4 @@ Production-ready WordPress deployment blueprint on AWS using an EC2 web server (
 # step 3: Provision the Remote Database Scheme
 # step 4: Map Environment Configurations
 # step 5: Run the Application Setup Interface
+[Wordpress.io.drawio](https://github.com/user-attachments/files/34224294/Wordpress.io.drawio)
