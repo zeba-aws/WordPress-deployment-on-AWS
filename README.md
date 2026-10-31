@@ -1,0 +1,5 @@
+# WordPress-deployment-on-AWS
+Production-ready WordPress deployment blueprint on AWS using an EC2 web server (LAMP Stack) and a decoupled Amazon RDS MySQL database.
+# step 1: Provision the Amazon RDS Database
+# step 2: Initialize EC2 and Install the LAMP Stack
+# step 3: Provision the Remote Database Scheme
